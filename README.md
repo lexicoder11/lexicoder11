@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lexicoder11
-- 👀 I’m interested in ...becoming a software engineer
+
 
 
 <!---
